@@ -23,7 +23,7 @@ Enjoy a clean, intuitive interface designed for seamless interaction and learnin
 ## 🔧 Technologies Used  
 
 - **Frontend**: HTML, CSS, JavaScript  
-- **Backend**: Python (Flask or FastAPI for API integration)  
+- **Backend**: Python (Flask)
 - **AI Model**: Olama AI for generating and evaluating responses  
 
 ---
@@ -118,7 +118,7 @@ Want to contribute? Fork this repo, create a branch, and submit a pull request.
 
 Have questions or feedback? Reach out:  
 
-📧 Email: [pradyumnadigraskar@gmail.com](mailto:pradyumnadigraskar@gmail.com)  
-🌐 [GitHub](https://github.com/pradyumnadigraskar)  
+📧 Email: [swarajsolanke02@gmail.com](mailto:swarajsolanke02@gmail.com)  
+🌐 [GitHub](https://github.com/swarajsolanke)  
 
 ---
